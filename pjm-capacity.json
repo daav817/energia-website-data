@@ -1,0 +1,53 @@
+{
+  "lastUpdated": "2026-11-12",
+  "nextAuction": "The Base Residual Auction for the 2029/30 delivery year is scheduled for December 2026.",
+  "auctions": [
+    {
+      "deliveryYear": "2023/24",
+      "period": "Jun–May",
+      "priceMwDay": 34.13,
+      "auctionDate": "2022-06-21",
+      "note": ""
+    },
+    {
+      "deliveryYear": "2024/25",
+      "period": "Jun–May",
+      "priceMwDay": 28.92,
+      "auctionDate": "2022-12-20",
+      "note": ""
+    },
+    {
+      "deliveryYear": "2025/26",
+      "period": "Jun–May",
+      "priceMwDay": 269.92,
+      "auctionDate": "2024-07-30",
+      "note": ""
+    },
+    {
+      "deliveryYear": "2026/27",
+      "period": "Jun–May",
+      "priceMwDay": 329.17,
+      "auctionDate": "2025-07-22",
+      "note": "Cleared at FERC-approved price cap"
+    },
+    {
+      "deliveryYear": "2027/28",
+      "period": "Jun–May",
+      "priceMwDay": 333.44,
+      "auctionDate": "2025-12-17",
+      "note": "Cleared at price cap; 6,623 MW short of reliability requirement"
+    },
+    {
+      "deliveryYear": "2028/29",
+      "period": "Jun–May",
+      "priceMwDay": 325,
+      "auctionDate": "2026-07-14",
+      "note": "Cleared at price cap; 6,831 MW short of reliability requirement"
+    }
+  ],
+  "commentary": [
+    "Since then, three consecutive auctions — 2026/27, 2027/28, and 2028/29 — have all cleared at the FERC-approved price cap. That cap is the only thing holding prices near $325–$333/MW-day: PJM's own simulation put the uncapped 2028/29 clearing price at roughly $555/MW-day, and the region fell 6,831 MW short of its reliability requirement.",
+    "PJM's long-term load forecast projects continued annual load growth of 3–4%, driven largely by data centers, and only about 525 MW of new or reactivated capacity cleared in the most recent auction. Capacity market pressure is unlikely to ease significantly in the near term."
+  ],
+  "sources": "PJM Interconnection RPM Base Residual Auction Results (pjm.com); IEEFA Capacity Market Report July 2025; Monitoring Analytics IMM State of Market Report 2024."
+}
