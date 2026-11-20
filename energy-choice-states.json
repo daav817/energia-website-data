@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-12",
+  "lastUpdated": "2026-11-20",
   "asOf": "November 2026",
-  "sources": "ElectricChoice.com (November 2026), state PUC filings, ISO/RTO reports. Natural gas deregulation status based on state PUC retail access programs as of November 2026.",
+  "sources": "QuickElectricity.com, Deregulated Energy States 2026 (electricity and natural gas retail choice by state). Elec. Since years from state restructuring legislation.",
   "states": [
     {
       "state": "Alabama",
@@ -10,7 +10,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Alabama Power (Southern Company); no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Alaska",
@@ -19,7 +19,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Isolated grid; no interconnection to continental U.S."
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Arizona",
@@ -28,7 +28,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "APS and SRP serve majority of state"
+      "note": "Electricity deregulation was suspended and reversed; largely regulated"
     },
     {
       "state": "Arkansas",
@@ -37,16 +37,16 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Entergy Arkansas; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "California",
-      "elecStatus": "Limited",
+      "elecStatus": "Lottery / Capped",
       "elecType": "limited",
       "elecSince": "1998",
-      "gasStatus": "Limited",
-      "gasType": "limited",
-      "note": "Elec: res direct access suspended 2001; C&I capped ~28,800 GWh. 25+ CCA programs separate. Gas: large C&I only"
+      "gasStatus": "Deregulated",
+      "gasType": "full",
+      "note": "Electricity: Direct Access lottery for C&I customers, capped retail access for others. Natural gas choice available"
     },
     {
       "state": "Colorado",
@@ -55,43 +55,43 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Xcel Energy dominant; no retail choice"
+      "note": "Natural gas choice is permitted by law, but few or no utility choice programs exist to date"
     },
     {
       "state": "Connecticut",
       "elecStatus": "Deregulated",
       "elecType": "full",
       "elecSince": "1998",
-      "gasStatus": "Deregulated",
-      "gasType": "full",
-      "note": "Eversource & United Illuminating territories; 15% res switching"
+      "gasStatus": "C&I Only",
+      "gasType": "limited",
+      "note": "Electricity market open; natural gas choice generally limited to C&I customers"
     },
     {
       "state": "Delaware",
       "elecStatus": "Deregulated",
       "elecType": "full",
       "elecSince": "1999",
-      "gasStatus": "Deregulated",
-      "gasType": "full",
-      "note": "Delmarva Power territory; lower residential participation vs. PJM peers"
+      "gasStatus": "C&I Only",
+      "gasType": "limited",
+      "note": "Electricity market open; natural gas choice generally limited to C&I customers"
     },
     {
       "state": "Florida",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Regulated",
-      "gasType": "regulated",
-      "note": "FPL, Duke Energy Florida; no retail choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Electricity regulated; residential natural gas choice only in Central Florida Gas territory"
     },
     {
       "state": "Georgia",
-      "elecStatus": "Regulated",
-      "elecType": "regulated",
+      "elecStatus": "Large C&I Only",
+      "elecType": "limited",
       "elecSince": "—",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "Unique: regulated electricity (Georgia Power) but fully deregulated natural gas since 1998 (Atlanta Gas Light territory)"
+      "note": "Electricity choice limited to large C&I customers; natural gas market generally open"
     },
     {
       "state": "Hawaii",
@@ -100,7 +100,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Isolated grid; Hawaiian Electric; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Idaho",
@@ -109,7 +109,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Idaho Power; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Illinois",
@@ -118,16 +118,16 @@
       "elecSince": "1997",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "Municipal aggregation drives switching in ComEd & Ameren territories"
+      "note": "Generally open market for both electricity and natural gas"
     },
     {
       "state": "Indiana",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Partial",
+      "gasStatus": "Limited",
       "gasType": "limited",
-      "note": "Elec: regulated (Duke, AEP, Vectren). Gas: commercial customer choice available in some territories"
+      "note": "Electricity regulated; natural gas choice limited to specific utilities such as NIPSCO"
     },
     {
       "state": "Iowa",
@@ -136,25 +136,25 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "MidAmerican Energy, Alliant Energy; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Kansas",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Regulated",
-      "gasType": "regulated",
-      "note": "Evergy; no retail choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Primarily regulated; natural gas choice programs are extremely limited"
     },
     {
       "state": "Kentucky",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Regulated",
-      "gasType": "regulated",
-      "note": "LG&E and KU; no retail choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Primarily regulated; natural gas choice programs are extremely limited"
     },
     {
       "state": "Louisiana",
@@ -163,16 +163,16 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Entergy Louisiana; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Maine",
       "elecStatus": "Deregulated",
       "elecType": "full",
       "elecSince": "2000",
-      "gasStatus": "Deregulated",
-      "gasType": "full",
-      "note": "Utilities fully divested generation; standard offer competitively bid"
+      "gasStatus": "C&I Only",
+      "gasType": "limited",
+      "note": "Electricity market open; natural gas choice primarily for C&I customers"
     },
     {
       "state": "Maryland",
@@ -181,7 +181,7 @@
       "elecSince": "1999",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "BGE, Pepco, Delmarva Power; PJM market"
+      "note": "Open market for both electricity and natural gas"
     },
     {
       "state": "Massachusetts",
@@ -190,7 +190,7 @@
       "elecSince": "1998",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "Municipal aggregation drives participation — ~76% of homes on competitive supply"
+      "note": "Open market for both; natural gas participation can be limited"
     },
     {
       "state": "Michigan",
@@ -199,7 +199,7 @@
       "elecSince": "2000",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "Elec cap fully subscribed; 5,100+ on waitlist. Gas is fully open — more accessible than electricity (DTE, Consumers Energy)"
+      "note": "Electricity choice capped at 10% of each utility's sales, with long waiting lists; natural gas market open"
     },
     {
       "state": "Minnesota",
@@ -208,7 +208,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Xcel Energy, Minnesota Power; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Mississippi",
@@ -217,7 +217,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Entergy Mississippi; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Missouri",
@@ -226,43 +226,43 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Ameren Missouri, KCP&L; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Montana",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Regulated",
-      "gasType": "regulated",
-      "note": "NorthWestern Energy; no retail choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Electricity largely regulated; natural gas choice limited to certain utility territories"
     },
     {
       "state": "Nebraska",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Regulated",
-      "gasType": "regulated",
-      "note": "Publicly owned utilities dominant; no retail choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Electricity regulated; natural gas choice limited to the Black Hills Energy region, with annual enrollment"
     },
     {
       "state": "Nevada",
-      "elecStatus": "C&I Only",
-      "elecType": "limited",
-      "elecSince": "2001",
-      "gasStatus": "Limited",
-      "gasType": "limited",
-      "note": "Application-based for large C&I; NV Energy territory; exit fees apply. Gas: large commercial only"
+      "elecStatus": "Regulated",
+      "elecType": "regulated",
+      "elecSince": "—",
+      "gasStatus": "Regulated",
+      "gasType": "regulated",
+      "note": "Largely regulated; only very high-volume C&I electricity users may shop for supply"
     },
     {
       "state": "New Hampshire",
       "elecStatus": "Deregulated",
       "elecType": "full",
       "elecSince": "1996",
-      "gasStatus": "Deregulated",
-      "gasType": "full",
-      "note": "First state to pass restructuring legislation (HB 1392); 28% res switching"
+      "gasStatus": "C&I Only",
+      "gasType": "limited",
+      "note": "Electricity market open; natural gas choice primarily for C&I customers"
     },
     {
       "state": "New Jersey",
@@ -271,7 +271,7 @@
       "elecSince": "1999",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "All major utility territories open; PJM market"
+      "note": "Open market for both electricity and natural gas"
     },
     {
       "state": "New Mexico",
@@ -280,7 +280,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "PNM; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "New York",
@@ -289,7 +289,7 @@
       "elecSince": "1996",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "ESCO market under PSC oversight; DPS staff recommended ending the municipal CCA framework (Aug 2026)"
+      "note": "Open market for both electricity and natural gas"
     },
     {
       "state": "North Carolina",
@@ -298,7 +298,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Duke Energy Carolinas; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "North Dakota",
@@ -307,7 +307,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Otter Tail Power, MDU; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Ohio",
@@ -316,7 +316,7 @@
       "elecSince": "1999",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "67% res switching driven by govt aggregation; 70+ PUCO-certified CRES providers"
+      "note": "Open market for both electricity and natural gas"
     },
     {
       "state": "Oklahoma",
@@ -325,16 +325,16 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "OG&E, PSO; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Oregon",
-      "elecStatus": "C&I Only",
+      "elecStatus": "Large C&I Only",
       "elecType": "limited",
       "elecSince": "2002",
-      "gasStatus": "Limited",
-      "gasType": "limited",
-      "note": "No residential choice; PGE & Pacific Power; structured annual enrollment windows. Gas: large customers only"
+      "gasStatus": "Regulated",
+      "gasType": "regulated",
+      "note": "Electricity choice limited to large C&I customers; natural gas regulated"
     },
     {
       "state": "Pennsylvania",
@@ -343,7 +343,7 @@
       "elecSince": "1997",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "50+ licensed suppliers; 35% res / 50% C&I switching"
+      "note": "Open market for both; widely cited as one of the most successful deregulation models"
     },
     {
       "state": "Rhode Island",
@@ -352,7 +352,7 @@
       "elecSince": "1997",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "Rhode Island Energy territory; 20% res / 40% C&I switching"
+      "note": "Open market for both electricity and natural gas"
     },
     {
       "state": "South Carolina",
@@ -361,7 +361,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Duke Energy SC, Dominion; H. 5439 proposes residential choice starting 2028"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "South Dakota",
@@ -370,7 +370,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Xcel Energy, MDU; no retail choice"
+      "note": "Largely regulated; no retail choice"
     },
     {
       "state": "Tennessee",
@@ -379,16 +379,16 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "TVA (federal power authority); no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Texas",
       "elecStatus": "Deregulated",
       "elecType": "full",
       "elecSince": "2002",
-      "gasStatus": "Partial",
-      "gasType": "limited",
-      "note": "Largest U.S. market — mandatory choice in ERCOT; 87% res switching. Gas: partial choice in some territories"
+      "gasStatus": "Regulated",
+      "gasType": "regulated",
+      "note": "Electricity choice open across most of the state (ERCOT); natural gas regulated for residential customers"
     },
     {
       "state": "Utah",
@@ -397,7 +397,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Rocky Mountain Power; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Vermont",
@@ -406,16 +406,16 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Green Mountain Power; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Virginia",
       "elecStatus": "Limited",
       "elecType": "limited",
       "elecSince": "1999",
-      "gasStatus": "Deregulated",
-      "gasType": "full",
-      "note": "HB 921 (July 2026) removed 1% cap — any nonresidential >5 MW now eligible. Gas: full residential & commercial choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Electricity highly restricted: primarily C&I customers, or 100% renewable plans for residential. Natural gas choice limited"
     },
     {
       "state": "Washington",
@@ -424,7 +424,7 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "Puget Sound Energy, PSE; no retail choice"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Washington D.C.",
@@ -433,16 +433,16 @@
       "elecSince": "2001",
       "gasStatus": "Deregulated",
       "gasType": "full",
-      "note": "Pepco territory; 48% C&I switching rate (among highest nationally)"
+      "note": "Open market for both electricity and natural gas"
     },
     {
       "state": "West Virginia",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Regulated",
-      "gasType": "regulated",
-      "note": "Appalachian Power (AEP); no retail choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Electricity regulated; natural gas choice only in limited service territories"
     },
     {
       "state": "Wisconsin",
@@ -451,16 +451,16 @@
       "elecSince": "—",
       "gasStatus": "Regulated",
       "gasType": "regulated",
-      "note": "We Energies, Xcel; no retail choice. Consumers Energy serves St. Johns, MI (regulated IOU)"
+      "note": "Fully regulated; no retail choice for electricity or natural gas"
     },
     {
       "state": "Wyoming",
       "elecStatus": "Regulated",
       "elecType": "regulated",
       "elecSince": "—",
-      "gasStatus": "Regulated",
-      "gasType": "regulated",
-      "note": "Rocky Mountain Power; no retail choice"
+      "gasStatus": "Limited",
+      "gasType": "limited",
+      "note": "Electricity regulated; natural gas choice limited to the Black Hills Energy region, with annual enrollment"
     }
   ]
 }
